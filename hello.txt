@@ -1,2 +1,6 @@
 Hello World
 Nice to meet you
+The day is going great
+The day is going not so great
+This is a line in add greeting
+new line to be committed
